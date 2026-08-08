@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ddmr06kxd3w4n"]
+
+[node name="Node2D" type="Node2D" unique_id=699832804]
+
+[node name="Label" type="Label" parent="." unique_id=2096046156]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Scene reutilizável — alterada"
